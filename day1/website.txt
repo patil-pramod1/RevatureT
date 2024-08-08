@@ -1,0 +1,16 @@
+website
+strello
+
+git
+Linux command to create a directory delete,copy and other command.
+
+Linux architecture consist of:hardware ,kernel ,shell 
+what do we understand by Linux distribution?
+kernel remains the same
+real time examples 
+list some directory commands of Linux?
+explains some of Linux commands the file management commands?
+filter commands - break ,cut;
+#!/bin/bash
+name=Jasdhir
+echo Hello, $name
