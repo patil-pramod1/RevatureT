@@ -1,0 +1,5 @@
+2024-08-02 16:39:50 DEBUG Logback:10 - first logg
+2024-08-02 16:40:23 DEBUG Logback:10 - first logg
+2024-08-02 16:40:23 INFO  Logback:11 - This is an info message
+2024-08-02 16:40:23 WARN  Logback:12 - This is a warn message
+2024-08-02 16:40:23 ERROR Logback:13 - This is an error message
